@@ -1,0 +1,18 @@
+{
+  "name": "botline",
+  "version": "1.0.0",
+  "description": "bot line can rodnum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "liebotrodnum"
+  },
+  "author": "JB",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
